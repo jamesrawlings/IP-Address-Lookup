@@ -14,3 +14,9 @@ The script shows the following data:
 9. Timezone
 10. Readme
 11. Google Maps URL
+
+## How to Use:
+1. Download the raw file.
+2. Move the file to the directory of your choice.
+3. Give the file permissions to run (chmod).
+4. Type ./IPLocateScript.sh <IP> 
